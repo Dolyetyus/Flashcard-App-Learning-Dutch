@@ -1,57 +1,59 @@
 # Language Learning Flashcards App - LLF
 
+## Demo Video
 <p align="center">
-  Demo video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XFQaZ5vmHfo?si=U4CP57RBWwPXGkMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=XFQaZ5vmHfo">
+    <img src="https://img.youtube.com/vi/XFQaZ5vmHfo/0.jpg" alt="Demo Video" width="560" height="315">
+  </a>
 </p>
 
 ## Overview
 The Language Flashcards App LLF is a desktop application developed in Java in a team of 4, designed to help users learn Dutch through interactive exercises and gamification techniques. This app targets English-speaking users who want to improve their Dutch language skills in an engaging and enjoyable way.
 
 ## Features
-1. Level Management
+### 1. Level Management
 <ul>
-      <li>Create, Update, and Delete Flashcards: Users can create custom flashcards using a built-in tool. The app ensures that no incomplete flashcards can be added. Users can also delete or update existing flashcards or levels as needed.</li>
-      <li>Custom Flashcards: Users can add new levels and flashcards tailored to their learning needs, enhancing their vocabulary as they progress.</li>
+      <li>**Create, Update, and Delete Flashcards:** Users can create custom flashcards using a built-in tool. The app ensures that no incomplete flashcards can be added. Users can also delete or update existing flashcards or levels as needed.</li>
+      <li>**Custom Flashcards:** Users can add new levels and flashcards tailored to their learning needs, enhancing their vocabulary as they progress.</li>
 </ul>
 
-2. JSON Persistence
+### 2. JSON Persistence
 <ul>
       <li>Export and Import Flashcards: Users can export selected flashcards as JSON files for easy sharing and import flashcards to build or modify custom levels.</li>
       <li>Easy Sharing: The JSON files make it simple to share custom flashcards among users via online platforms.</li>
 </ul>
 
-3. Gamification
+### 3. Gamification
 <ul>
       <li>Difficulty System: The app includes a difficulty system that makes learning more challenging as the user progresses.</li>
       <li>Scoring System: Points are awarded based on correct answers. Users earn 1 point for each correct answer and 0 points for incorrect ones.</li>
       <li>Streak System: A streak multiplier increases with consecutive correct answers, boosting the score. The multiplier resets to 1x after a mistake.</li>
 </ul>
 
-4. Achievement Badges
+### 4. Achievement Badges
 <ul>
       <li>Reward System: Users earn badges for achieving specific milestones, such as reaching a certain streak, completing advanced levels, or finishing a level without mistakes.</li>
       <li>Achievement List: Users can view all possible achievements and track their progress.</li>
 </ul>
 
-5. Listening Exercises
+### 5. Listening Exercises
 <ul>
       <li>Audio Flashcards: Built-in flashcards include an audio property that plays when activated. Users must type what they hear to earn points.</li>
       <li>AI Integration: The app uses AI text-to-speech models to match audio files with the correct flashcards, improving users' listening skills.</li>
 </ul>
 
-6. Graphical User Interface (GUI)
+### 6. Graphical User Interface (GUI)
 <ul>
       <li>User-Friendly Interface: The app provides a main menu with options such as "Resume Game," "New Game," "Custom Games," and "Achievements."</li>
       <li>Interactive Controls: Soft controls like "Play Audio" and "Show Hint" enhance the learning experience, making it easy to navigate and use.</li>
 </ul>
 
-7. Completion Exercises
+### 7. Completion Exercises
 <ul>
       <li>Sentence Completion: For flashcards with sentences, random words are removed, and users must fill in the blanks. Correct answers earn points, while incorrect ones push the exercise to the end of the queue.</li>
 </ul>
 
-8. Cultural/Fun Mode
+### 8. Cultural/Fun Mode
 <ul>
       <li>Idioms and Trivia: This mode focuses on teaching idioms and interesting trivia about the Netherlands, providing a deeper cultural context for language learning.</li>
       <li>Consistent User Interface: The flashcards in this mode are designed similarly to the regular ones, ensuring a cohesive experience.</li>
@@ -90,8 +92,10 @@ cd Flashcard-App-Learning-Dutch
    
 4. Build the project and run the application.
 
+
+
 *Developed by:*
-*Alexandru-Valentin Flore
-Mihnea-Andrei Bârsan
-Musab Oğuz
+*Alexandru-Valentin Flore </br>
+Mihnea-Andrei Bârsan </br>
+Musab Oğuz </br>
 Robert-Ștefan Sofroni*
