@@ -95,8 +95,10 @@ cd Flashcard-App-Learning-Dutch
 </br>
 </br>
 
-*Developed by:* </br>
-*Alexandru-Valentin Flore </br>
-Mihnea-Andrei Bârsan </br>
-Musab Oğuz </br>
-Robert-Ștefan Sofroni*
+Developed by:
+<ul>
+      <li>Alexandru-Valentin Florea </li>
+      <li>Mihnea-Andrei Bârsan</li>
+      <li>Musab Oğuz</li>
+      <li>Robert-Ștefan Sofroni</li>
+</ul>
