@@ -2,7 +2,8 @@
 
 <p align="center">
   Demo video:
-[![Demo video:](https://img.youtube.com/vi/XFQaZ5vmHfo/default.jpg)](https://youtu.be/XFQaZ5vmHfo)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFQaZ5vmHfo?si=U4CP57RBWwPXGkMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 ## Overview
 The Language Flashcards App LLF is a desktop application developed in Java in a team of 4, designed to help users learn Dutch through interactive exercises and gamification techniques. This app targets English-speaking users who want to improve their Dutch language skills in an engaging and enjoyable way.
