@@ -87,20 +87,20 @@ The Language Flashcards App LLF is a desktop application developed in Java in a 
 $ git clone https://github.com/Dolyetyus/Flashcard-App-Learning-Dutch.git
 ```
 
-3. Navigate to the project directory:</br>
+2. Navigate to the project directory:
+   </br>
 *For Windows:*
 ```
 $ chdir Flashcard-App-Learning-Dutch
 ```
-
 *For Linux:*
 ```
 $ cd Flashcard-App-Learning-Dutch
 ```
 
-5. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
    
-6. Build the project and run the application.
+4. Build the project and run the application.
 
 </br>
 </br>
