@@ -87,13 +87,13 @@ The Language Flashcards App LLF is a desktop application developed in Java in a 
 $ git clone https://github.com/Dolyetyus/Flashcard-App-Learning-Dutch.git
 ```
 
-3. Navigate to the project directory:
-For Windows:
+3. Navigate to the project directory:</br>
+*For Windows:*
 ```
 $ chdir Flashcard-App-Learning-Dutch
 ```
 
-For Linux:
+*For Linux:*
 ```
 $ cd Flashcard-App-Learning-Dutch
 ```
