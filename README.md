@@ -13,8 +13,8 @@ The Language Flashcards App LLF is a desktop application developed in Java in a 
 ## Features
 ### 1. Level Management
 <ul>
-      <li>**Create, Update, and Delete Flashcards:** Users can create custom flashcards using a built-in tool. The app ensures that no incomplete flashcards can be added. Users can also delete or update existing flashcards or levels as needed.</li>
-      <li>**Custom Flashcards:** Users can add new levels and flashcards tailored to their learning needs, enhancing their vocabulary as they progress.</li>
+      <li>Create, Update, and Delete Flashcards: Users can create custom flashcards using a built-in tool. The app ensures that no incomplete flashcards can be added. Users can also delete or update existing flashcards or levels as needed.</li>
+      <li>Custom Flashcards: Users can add new levels and flashcards tailored to their learning needs, enhancing their vocabulary as they progress.</li>
 </ul>
 
 ### 2. JSON Persistence
@@ -61,9 +61,9 @@ The Language Flashcards App LLF is a desktop application developed in Java in a 
 
 ## Technical Details
 ### Development Stack
-**Language:** Java
-**GUI Framework:** JavaFX
-**JSON Handling:** Jackson library for JSON parsing and generation
+**Language:** Java </br>
+**GUI Framework:** JavaFX </br>
+**JSON Handling:** Jackson library for JSON parsing and generation </br>
 
 ### Design Patterns
 **MVC (Model-View-Controller):** The application follows the MVC pattern to separate concerns, making it easier to manage, update, and scale the application.
@@ -92,7 +92,9 @@ cd Flashcard-App-Learning-Dutch
    
 4. Build the project and run the application.
 
-
+</br>
+</br>
+</br>
 
 *Developed by:*
 *Alexandru-Valentin Flore </br>
