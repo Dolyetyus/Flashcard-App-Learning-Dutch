@@ -1,0 +1,46 @@
+nl/vu/cs/softwaredesign/Flashcards/Builtin/BuiltinFlashcard.java
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.BuiltinFlashcard
+nl/vu/cs/softwaredesign/Flashcards/Builtin/CompletionExerciseFlashcard.java
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.CompletionExerciseFlashcard
+nl/vu/cs/softwaredesign/Flashcards/Builtin/FunExerciseFlashcard.java
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.FunExerciseFlashcard
+nl/vu/cs/softwaredesign/HelloWorld.java
+ nl.vu.cs.softwaredesign.HelloWorld
+ nl.vu.cs.softwaredesign.HelloWorld$1
+nl/vu/cs/softwaredesign/Flashcards/Flashcard.java
+ nl.vu.cs.softwaredesign.Flashcards.Flashcard
+nl/vu/cs/softwaredesign/Observer.java
+ nl.vu.cs.softwaredesign.Observer
+nl/vu/cs/softwaredesign/Flashcards/Builtin/Data/Database.java
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.Data.Database
+nl/vu/cs/softwaredesign/Flashcards/Builtin/BasicExerciseFlashcard.java
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.BasicExerciseFlashcard
+nl/vu/cs/softwaredesign/Flashcards/Builtin/FlashcardLoader.java
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.FlashcardLoader
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.FlashcardLoader$1
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.FlashcardLoader$2
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.FlashcardLoader$3
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.FlashcardLoader$4
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.FlashcardLoader$5
+nl/vu/cs/softwaredesign/User.java
+ nl.vu.cs.softwaredesign.User
+nl/vu/cs/softwaredesign/GameManager.java
+ nl.vu.cs.softwaredesign.GameManager
+nl/vu/cs/softwaredesign/Subject.java
+ nl.vu.cs.softwaredesign.Subject
+nl/vu/cs/softwaredesign/Main.java
+ nl.vu.cs.softwaredesign.Main
+nl/vu/cs/softwaredesign/Customiser.java
+ nl.vu.cs.softwaredesign.Customiser
+nl/vu/cs/softwaredesign/Achievement.java
+ nl.vu.cs.softwaredesign.Achievement
+nl/vu/cs/softwaredesign/Level.java
+ nl.vu.cs.softwaredesign.Level
+nl/vu/cs/softwaredesign/Flashcards/Custom/CustomFlashcard.java
+ nl.vu.cs.softwaredesign.Flashcards.Custom.CustomFlashcard
+nl/vu/cs/softwaredesign/Flashcards/Builtin/ListeningExerciseFlashcard.java
+ nl.vu.cs.softwaredesign.Flashcards.Builtin.ListeningExerciseFlashcard
+nl/vu/cs/softwaredesign/GUI.java
+ nl.vu.cs.softwaredesign.GUI
+ nl.vu.cs.softwaredesign.GUI$GUIBtn
+ nl.vu.cs.softwaredesign.GUI$Mode
